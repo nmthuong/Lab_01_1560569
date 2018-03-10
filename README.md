@@ -24,14 +24,14 @@
   </ul>
 - Thứ 5
   <ul>
-  <li>Lập trình Jav</li>
+  <li>Lập trình Java</li>
   </ul>
- - Thứ 6
+- Thứ 6
   <ul>
   <li>Tư tưởng HCM</li>
   <li>Pháp luật đại cương</li>
   </ul>
- - Thứ 7
+- Thứ 7
   <ul>
   <li>Thực Hành Java</li>
   <li>Thực hành Linux</li>
