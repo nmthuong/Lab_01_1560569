@@ -22,7 +22,7 @@
   <li>Thực Hành Lập Trình Web 02</li>
   <li>Thực Hành Triển Khai Hệ Thống Mạng</li>
   </ul>
- - Thứ 5
+- Thứ 5
   <ul>
   <li>Lập trình Jav</li>
   </ul>
