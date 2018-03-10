@@ -24,7 +24,7 @@
   </ul>
  - Thứ 5
   <ul>
-  <li>Java</li>
+  <li>Lập trình Jav</li>
   </ul>
  - Thứ 6
   <ul>
