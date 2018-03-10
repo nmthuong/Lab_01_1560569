@@ -25,6 +25,7 @@
  - Thứ 5
   <ul>
   <li>Java</li>
+  </ul>
  - Thứ 6
   <ul>
   <li>Tư tưởng HCM</li>
